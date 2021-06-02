@@ -1,0 +1,225 @@
+2020/03/04 15:13:24 [error] 10064#20968: *1 CreateFile() "C:\nginx-1.17.9/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/03/04 15:21:44 [emerg] 8484#20308: CreateFile() "C:/var/log/nginx/html-cms.access.log" failed (3: The system cannot find the path specified)
+2020/03/04 15:32:44 [notice] 5384#4532: signal process started
+2020/03/04 15:33:01 [notice] 18640#17472: signal process started
+2020/03/04 15:33:01 [error] 18640#17472: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/04 15:33:40 [notice] 9564#16228: signal process started
+2020/03/04 15:33:40 [error] 9564#16228: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/04 15:34:51 [notice] 15908#12816: signal process started
+2020/03/04 15:35:52 [notice] 15824#8124: signal process started
+2020/03/04 15:35:54 [notice] 1240#18480: signal process started
+2020/03/04 15:35:54 [error] 1240#18480: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/04 15:35:56 [notice] 12384#3636: signal process started
+2020/03/04 15:35:56 [error] 12384#3636: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/04 15:37:03 [notice] 7140#13936: signal process started
+2020/03/04 15:37:54 [notice] 14272#19052: signal process started
+2020/03/04 15:39:26 [notice] 17176#8964: signal process started
+2020/03/04 15:39:26 [error] 17176#8964: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/04 15:40:24 [notice] 17396#17888: signal process started
+2020/03/04 15:42:55 [notice] 15908#10704: signal process started
+2020/03/04 15:44:06 [notice] 14456#17196: signal process started
+2020/03/04 15:45:55 [notice] 2264#14508: signal process started
+2020/03/04 15:46:27 [notice] 10416#14404: signal process started
+2020/03/04 15:48:54 [notice] 15020#14508: signal process started
+2020/03/04 15:48:55 [notice] 13400#464: signal process started
+2020/03/04 15:48:55 [error] 13400#464: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/04 16:07:41 [notice] 7572#10728: signal process started
+2020/03/04 16:09:12 [notice] 7668#10164: signal process started
+2020/03/04 16:11:00 [notice] 16872#15820: signal process started
+2020/03/04 16:11:47 [notice] 2744#17644: signal process started
+2020/03/04 16:14:31 [notice] 16848#15356: signal process started
+2020/03/04 16:15:30 [notice] 16556#2604: signal process started
+2020/03/04 16:17:06 [notice] 10700#7296: signal process started
+2020/03/04 16:20:31 [notice] 9064#15528: signal process started
+2020/03/04 16:21:21 [notice] 1448#32: signal process started
+2020/03/04 16:21:22 [notice] 4620#14508: signal process started
+2020/03/04 16:21:22 [error] 4620#14508: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/04 16:21:23 [notice] 9748#16316: signal process started
+2020/03/04 16:21:23 [error] 9748#16316: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/04 16:21:32 [notice] 640#20160: signal process started
+2020/03/04 16:21:32 [error] 640#20160: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/04 16:21:33 [notice] 21120#15884: signal process started
+2020/03/04 16:21:33 [error] 21120#15884: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/04 16:21:49 [notice] 12444#1144: signal process started
+2020/03/04 16:21:49 [error] 12444#1144: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/04 16:22:34 [notice] 15300#5560: signal process started
+2020/03/04 16:22:36 [notice] 13356#20776: signal process started
+2020/03/04 16:22:36 [error] 13356#20776: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/04 16:22:37 [notice] 16860#11684: signal process started
+2020/03/04 16:22:37 [error] 16860#11684: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/04 16:23:44 [notice] 3008#6584: signal process started
+2020/03/04 16:24:26 [notice] 19592#16556: signal process started
+2020/03/04 16:27:44 [notice] 12360#13560: signal process started
+2020/03/04 16:28:39 [notice] 10164#18544: signal process started
+2020/03/05 08:34:54 [notice] 10072#12084: signal process started
+2020/03/05 08:34:54 [error] 10072#12084: OpenEvent("Global\ngx_quit_18264") failed (2: The system cannot find the file specified)
+2020/03/05 08:35:14 [notice] 16940#8156: signal process started
+2020/03/05 08:35:14 [error] 16940#8156: OpenEvent("Global\ngx_stop_18264") failed (2: The system cannot find the file specified)
+2020/03/05 08:44:43 [notice] 13120#8620: signal process started
+2020/03/05 08:44:45 [notice] 11776#2412: signal process started
+2020/03/05 08:44:45 [error] 11776#2412: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/05 09:08:22 [notice] 13544#16008: signal process started
+2020/03/05 09:08:22 [error] 13544#16008: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/05 09:25:04 [notice] 11496#6044: signal process started
+2020/03/05 09:25:06 [notice] 17192#15576: signal process started
+2020/03/05 09:25:06 [error] 17192#15576: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/05 09:25:08 [emerg] 17464#12512: CreateFile() "C:/var/log/nginx/html-cms.access.log" failed (3: The system cannot find the path specified)
+2020/03/05 09:25:41 [notice] 10028#11832: signal process started
+2020/03/05 09:25:41 [error] 10028#11832: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/05 09:25:43 [notice] 12172#20076: signal process started
+2020/03/05 09:25:43 [error] 12172#20076: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/05 09:25:47 [emerg] 18256#14352: CreateFile() "C:/var/log/nginx/html-cms.access.log" failed (3: The system cannot find the path specified)
+2020/03/05 09:27:52 [notice] 17636#10876: signal process started
+2020/03/05 09:27:52 [error] 17636#10876: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/05 09:27:58 [notice] 13308#13316: signal process started
+2020/03/05 09:28:03 [notice] 14220#18620: signal process started
+2020/03/05 09:28:03 [error] 14220#18620: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/05 09:28:53 [notice] 11636#11796: signal process started
+2020/03/05 18:56:52 [notice] 13900#9840: signal process started
+2020/03/05 18:56:52 [error] 13900#9840: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/05 18:56:59 [notice] 20148#24304: signal process started
+2020/03/05 18:56:59 [error] 20148#24304: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/05 18:57:08 [notice] 20996#22100: signal process started
+2020/03/05 18:58:33 [notice] 17940#22308: signal process started
+2020/03/05 18:58:50 [notice] 15352#3932: signal process started
+2020/03/05 18:58:54 [notice] 2992#8504: signal process started
+2020/03/05 18:58:54 [error] 2992#8504: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/05 18:58:55 [notice] 7980#5560: signal process started
+2020/03/05 18:58:55 [error] 7980#5560: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/05 18:59:18 [notice] 16152#21516: signal process started
+2020/03/05 18:59:19 [notice] 8484#2332: signal process started
+2020/03/05 18:59:19 [error] 8484#2332: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/05 18:59:20 [notice] 4924#14952: signal process started
+2020/03/05 18:59:20 [error] 4924#14952: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/05 18:59:22 [emerg] 22792#23040: unexpected end of parameter, expecting ";" in command line
+2020/03/05 18:59:36 [notice] 4032#17808: signal process started
+2020/03/05 18:59:36 [error] 4032#17808: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/05 18:59:41 [notice] 24120#8556: signal process started
+2020/03/05 18:59:41 [error] 24120#8556: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/05 18:59:59 [notice] 21232#13044: signal process started
+2020/03/05 18:59:59 [error] 21232#13044: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/05 19:01:39 [notice] 6988#13388: signal process started
+2020/03/05 19:01:43 [notice] 16504#21016: signal process started
+2020/03/05 19:01:43 [error] 16504#21016: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/05 19:01:47 [notice] 2744#23448: signal process started
+2020/03/05 19:01:47 [error] 2744#23448: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/05 19:02:33 [notice] 13708#15444: signal process started
+2020/03/05 19:02:44 [notice] 15980#24412: signal process started
+2020/03/05 19:02:44 [error] 15980#24412: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/05 19:04:49 [notice] 22188#22584: signal process started
+2020/03/05 19:04:51 [notice] 24056#8248: signal process started
+2020/03/05 19:04:51 [error] 24056#8248: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/06 19:19:37 [alert] 14060#17900: WSASend() failed (10022: An invalid argument was supplied) while resolving, resolver: 8.8.8.8:53
+2020/03/07 13:51:01 [notice] 1560#18088: signal process started
+2020/03/07 13:51:02 [notice] 18612#24024: signal process started
+2020/03/07 13:51:02 [error] 18612#24024: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/07 14:48:18 [notice] 9692#23712: signal process started
+2020/03/07 14:48:19 [notice] 6840#21996: signal process started
+2020/03/07 14:48:19 [error] 6840#21996: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/07 14:48:55 [notice] 6216#22356: signal process started
+2020/03/07 14:48:55 [error] 6216#22356: OpenEvent("Global\ngx_quit_6592") failed (2: The system cannot find the file specified)
+2020/03/07 19:51:09 [alert] 7824#13592: WSASend() failed (10022: An invalid argument was supplied) while resolving, resolver: 8.8.8.8:53
+2020/03/07 21:55:13 [notice] 12588#8296: signal process started
+2020/03/07 21:55:15 [notice] 25200#14228: signal process started
+2020/03/07 21:55:15 [error] 25200#14228: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/11 10:53:10 [notice] 18004#9560: signal process started
+2020/03/11 10:53:10 [error] 18004#9560: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/12 20:03:50 [notice] 26412#10828: signal process started
+2020/03/13 20:39:31 [notice] 13900#7408: signal process started
+2020/03/13 20:39:32 [notice] 9972#11168: signal process started
+2020/03/13 20:39:32 [error] 9972#11168: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/13 21:00:01 [notice] 7556#16000: signal process started
+2020/03/14 12:49:27 [notice] 5712#660: signal process started
+2020/03/14 12:49:29 [notice] 2312#11508: signal process started
+2020/03/14 12:49:29 [error] 2312#11508: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/14 12:54:10 [notice] 11032#4972: signal process started
+2020/03/14 12:54:11 [notice] 14264#7584: signal process started
+2020/03/14 12:54:11 [error] 14264#7584: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/14 12:54:12 [notice] 708#768: signal process started
+2020/03/14 12:54:12 [error] 708#768: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/14 12:54:12 [notice] 12152#9484: signal process started
+2020/03/14 12:54:12 [error] 12152#9484: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/14 12:54:13 [notice] 7716#6980: signal process started
+2020/03/14 12:54:13 [error] 7716#6980: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/14 12:54:13 [notice] 10668#7452: signal process started
+2020/03/14 12:54:13 [error] 10668#7452: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/14 12:54:14 [notice] 7836#2088: signal process started
+2020/03/14 12:54:14 [error] 7836#2088: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/14 12:54:14 [notice] 7808#10824: signal process started
+2020/03/14 12:54:14 [error] 7808#10824: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/14 12:55:04 [notice] 5656#672: signal process started
+2020/03/14 12:55:04 [error] 5656#672: OpenEvent("Global\ngx_quit_14232") failed (2: The system cannot find the file specified)
+2020/03/14 18:00:48 [emerg] 10032#18232: "set" directive is not allowed here in C:\nginx-1.17.9/conf/nginx.conf:15
+2020/03/14 18:00:55 [emerg] 10584#16984: "set" directive is not allowed here in C:\nginx-1.17.9/conf/nginx.conf:15
+2020/03/14 18:01:29 [emerg] 17856#17180: "add_header" directive is not allowed here in C:\nginx-1.17.9/conf/nginx.conf:40
+2020/03/14 18:01:32 [emerg] 14912#17276: "add_header" directive is not allowed here in C:\nginx-1.17.9/conf/nginx.conf:40
+2020/03/14 18:01:59 [notice] 11480#8160: signal process started
+2020/03/14 18:02:00 [notice] 4140#17748: signal process started
+2020/03/14 18:02:00 [error] 4140#17748: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/14 18:03:36 [notice] 16740#7484: signal process started
+2020/03/14 18:03:38 [notice] 16988#14888: signal process started
+2020/03/14 18:03:38 [error] 16988#14888: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/14 18:05:27 [notice] 17936#18128: signal process started
+2020/03/14 18:05:27 [error] 17936#18128: OpenEvent("Global\ngx_quit_2124") failed (2: The system cannot find the file specified)
+2020/03/14 18:07:13 [notice] 15856#17580: signal process started
+2020/03/14 18:07:14 [notice] 15460#16916: signal process started
+2020/03/14 18:07:14 [error] 15460#16916: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/14 18:24:49 [notice] 6828#17192: signal process started
+2020/03/14 18:27:08 [notice] 5480#16536: signal process started
+2020/03/14 18:27:09 [notice] 15320#17124: signal process started
+2020/03/14 18:27:10 [notice] 2236#4024: signal process started
+2020/03/14 18:27:11 [notice] 18324#13944: signal process started
+2020/03/14 18:27:11 [notice] 18236#2584: signal process started
+2020/03/14 18:27:12 [notice] 17164#7984: signal process started
+2020/03/14 18:27:12 [notice] 8156#11032: signal process started
+2020/03/14 18:27:13 [notice] 11620#18120: signal process started
+2020/03/14 18:27:13 [notice] 17716#18100: signal process started
+2020/03/14 18:27:14 [notice] 16584#2020: signal process started
+2020/03/14 18:27:15 [notice] 17884#18004: signal process started
+2020/03/14 18:27:16 [notice] 16960#10664: signal process started
+2020/03/14 18:27:29 [notice] 17084#3212: signal process started
+2020/03/14 18:27:29 [error] 17084#3212: OpenEvent("Global\ngx_quit_200") failed (2: The system cannot find the file specified)
+2020/03/15 14:53:42 [notice] 10860#12332: signal process started
+2020/03/15 14:53:43 [notice] 13000#12412: signal process started
+2020/03/15 14:53:43 [error] 13000#12412: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/15 17:01:46 [notice] 19248#13916: signal process started
+2020/03/15 17:01:46 [error] 19248#13916: OpenEvent("Global\ngx_quit_4724") failed (2: The system cannot find the file specified)
+2020/03/15 17:03:12 [notice] 19268#10276: signal process started
+2020/03/15 17:03:13 [notice] 13400#8792: signal process started
+2020/03/15 17:03:13 [error] 13400#8792: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/15 17:03:14 [notice] 5208#17352: signal process started
+2020/03/15 17:03:14 [error] 5208#17352: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/15 17:04:04 [notice] 14572#13472: signal process started
+2020/03/15 17:04:04 [error] 14572#13472: OpenEvent("Global\ngx_quit_7392") failed (2: The system cannot find the file specified)
+2020/03/15 17:04:06 [notice] 15656#4220: signal process started
+2020/03/15 17:04:06 [error] 15656#4220: OpenEvent("Global\ngx_quit_7392") failed (2: The system cannot find the file specified)
+2020/03/16 09:00:01 [alert] 5332#19084: WSASend() failed (10022: An invalid argument was supplied) while resolving, resolver: 8.8.8.8:53
+2020/03/16 11:29:35 [alert] 5332#19084: WSASend() failed (10022: An invalid argument was supplied) while resolving, resolver: 8.8.8.8:53
+2020/03/16 19:56:16 [notice] 15860#14552: signal process started
+2020/03/16 19:56:41 [notice] 13592#8512: signal process started
+2020/03/16 19:56:41 [error] 13592#8512: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/16 20:01:02 [notice] 13016#14476: signal process started
+2020/03/16 20:01:02 [error] 13016#14476: OpenEvent("Global\ngx_quit_15516") failed (2: The system cannot find the file specified)
+2020/03/17 11:05:44 [notice] 14676#14240: signal process started
+2020/03/17 11:05:45 [notice] 9596#6000: signal process started
+2020/03/17 11:05:45 [error] 9596#6000: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/17 11:47:24 [notice] 15440#8788: signal process started
+2020/03/17 11:48:05 [notice] 9100#5748: signal process started
+2020/03/17 11:48:06 [notice] 10392#13172: signal process started
+2020/03/17 11:48:06 [error] 10392#13172: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/17 11:48:07 [notice] 3324#11640: signal process started
+2020/03/17 11:48:07 [error] 3324#11640: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/17 11:48:52 [notice] 12024#6408: signal process started
+2020/03/17 11:48:52 [error] 12024#6408: OpenEvent("Global\ngx_quit_6388") failed (2: The system cannot find the file specified)
+2020/03/17 11:50:08 [notice] 13820#9624: signal process started
+2020/03/17 11:50:10 [notice] 2168#4488: signal process started
+2020/03/17 11:50:10 [error] 2168#4488: CreateFile() "C:\nginx-1.17.9/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/03/17 16:52:24 [alert] 12576#10660: WSASend() failed (10022: An invalid argument was supplied) while resolving, resolver: 8.8.8.8:53
+2020/03/17 17:08:31 [alert] 12576#10660: WSASend() failed (10022: An invalid argument was supplied) while resolving, resolver: 8.8.8.8:53
+2020/03/17 17:24:37 [error] 12576#10660: wrong ident 26980 response for html-cms.s3-website.ap-south-1.amazonaws.com, expect 16281
+2020/03/17 17:24:37 [error] 12576#10660: wrong ident 31058 response for html-cms.s3-website.ap-south-1.amazonaws.com, expect 29058
+2020/03/17 17:24:51 [error] 12576#10660: unexpected response for html-cms.s3-website.ap-south-1.amazonaws.com
+2020/03/17 17:24:51 [error] 12576#10660: unexpected response for html-cms.s3-website.ap-south-1.amazonaws.com
+2020/03/17 17:27:07 [alert] 12576#10660: WSASend() failed (10022: An invalid argument was supplied) while resolving, resolver: 8.8.8.8:53
+2020/03/19 17:39:21 [alert] 12836#10060: WSASend() failed (10022: An invalid argument was supplied) while resolving, resolver: 8.8.8.8:53
+2020/04/23 15:48:47 [alert] 11664#6264: WSASend() failed (10022: An invalid argument was supplied) while resolving, resolver: 8.8.8.8:53
